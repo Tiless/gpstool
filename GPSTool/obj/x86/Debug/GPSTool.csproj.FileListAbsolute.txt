@@ -1,0 +1,9 @@
+V:\Projekte\GPSTool\GPSTool\bin\Debug\GPSTool.exe
+V:\Projekte\GPSTool\GPSTool\bin\Debug\GPSTool.pdb
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\ResolveAssemblyReference.cache
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GPSTool.Form1.resources
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GPSTool.Properties.Resources.resources
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GenerateResource.read.1.tlog
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GenerateResource.write.1.tlog
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GPSTool.exe
+V:\Projekte\GPSTool\GPSTool\obj\x86\Debug\GPSTool.pdb
